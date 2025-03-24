@@ -9,12 +9,12 @@ It’s perfect for demonstrating your understanding of web security and automati
 
 Features:
 
-SQL Injection detection using error-based techniques.
+- SQL Injection detection using error-based techniques.
 
-Cross-Site Scripting (XSS) detection.
+- Cross-Site Scripting (XSS) detection.
 
-Security header analysis (e.g., Content Security Policy, X-Frame-Options).
+- Security header analysis (e.g., Content Security Policy, X-Frame-Options).
 
-Crawling functionality to scan multiple pages.
+- Crawling functionality to scan multiple pages.
 
-Threaded scanning for faster results.
+- Threaded scanning for faster results.
